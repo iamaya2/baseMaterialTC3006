@@ -32,3 +32,6 @@ Following is a list of the location of the issues that were raised by the review
 	* *SMA0401A*
 		* **Evidence 01: ML from scratch: final/M2_ML/README.md**
 		* **Evidence 02: ML from a framework: final/M2_ML/README.md**
+		
+
+See you!
