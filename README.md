@@ -1,6 +1,20 @@
 # Demo repo for the TC3006 course
 This repository is a demo of what is expected to deliver on each repository requested for the TC3006 course at Tecnológico de Monterrey. 
 
+## Structure of this repository
+The root folder of this repository contains the following files and folders: 
+
+* **Files**
+  * ... 
+* **Folders**
+  * ... 
+
+## Files for revision
+Following is a list of the files that must be checked for grading each subcompetency: 
+
+* ...
+* ...
+
 ## Requested changes and replies
 Following is a list of the issues that were raised by the reviewer during the feedback phase, and the changes that we implemented for solving them.
 
