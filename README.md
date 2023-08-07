@@ -13,19 +13,22 @@ The root folder of this repository contains the following files and folders:
 ## Files for revision
 Following is a list of the files that must be checked for grading each subcompetency: 
 
-* ...
-* ...
+* *Module 1: Statistics*
+	* *SMA0101A*
+		* **Evidence 01: Modeling** Please review file **final/M1_Statistics/Ev_01/dummyFile.txt**
+* *Module 2: Machine Learning*
+	* *SMA0401A*
+		* **Evidence 01: ML from scratch** Please review file **final/M2_ML/Ev_01/dummyFile.txt**
+		* **Evidence 02: ML from a framework** Please review file **final/M2_ML/Ev_02/dummyFolder/dummyFile.txt**
+
 
 ## Requested changes and replies
-Following is a list of the issues that were raised by the reviewer during the feedback phase, and the changes that we implemented for solving them.
+Following is a list of the location of the issues that were raised by the reviewer during the feedback phase. Please refer to them for more details.
 
-### Issue 01: You are still missing some tests
-We added some more testing varying the hyper-parameters in the following ranges: 
-* Theta: We used values 0.01, 0.001, and 0.005
-* ...
-
-These changes can be observerd in the following files: 
-* ...
-
-### Issue 02: ...
-...
+* *Module 1: Statistics*
+	* *SMA0101A*
+		* **Evidence 01: Modeling: final/M1_Statistics/README.md**
+* *Module 2: Machine Learning*
+	* *SMA0401A*
+		* **Evidence 01: ML from scratch: final/M2_ML/README.md**
+		* **Evidence 02: ML from a framework: final/M2_ML/README.md**

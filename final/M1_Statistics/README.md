@@ -4,7 +4,7 @@ In this file, you should describe the content of the folder. For example, in thi
 ## Files for revision
 This folder contains the files related to the deliverables from the Statistics module. The following files are to be graded: 
 
- * **Evidence 01: ML from scratch** Please review file **Ev_01/dummyFile.txt**
+ * **Evidence 01: Modeling ** Please review file **Ev_01/dummyFile.txt**
  
 ## Requested changes and replies
 Following is a list of the issues that were raised by the reviewer during the feedback phase, and the changes that we implemented for solving them.
@@ -19,3 +19,5 @@ These changes can be observerd in the following files:
 
 ### Issue 02: ...
 ...
+
+
