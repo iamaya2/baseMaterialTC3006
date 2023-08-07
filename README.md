@@ -1,2 +1,16 @@
-# baseMaterialTC3006
-Base material for the TC3006 course at Tecnologico de Monterrey
+# Demo repo for the TC3006 course
+This repository is a demo of what is expected to deliver on each repository requested for the TC3006 course at Tecnológico de Monterrey. 
+
+## Requested changes and replies
+Following is a list of the issues that were raised by the reviewer during the feedback phase, and the changes that we implemented for solving them.
+
+### Issue 01: You are still missing some tests
+We added some more testing varying the hyper-parameters in the following ranges: 
+* Theta: We used values 0.01, 0.001, and 0.005
+* ...
+
+These changes can be observerd in the following files: 
+* ...
+
+### Issue 02: ...
+...
