@@ -1,4 +1,6 @@
 # Demo file for inner file
 In this file, you should describe the content of the folder. For example, in this case, we could state that:
 
-This folder contains the files related to a single deliverable. 
+This folder contains the files related to the deliverables from the Statistics module. The following files are to be graded: 
+
+ * **Evidence 01: ML from scratch** Please review file **Ev_01/dummyFile.txt**
