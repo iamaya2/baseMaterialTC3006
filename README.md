@@ -15,10 +15,15 @@ Following is a list of the files that must be checked for grading each subcompet
 
 * *Modulo 4: Reto*
 		* **Momento de Retroalimentación: Reto Limpieza del Conjunto de Datosg** Please review file **final/Reto/Limpieza/limpieza.ipybn**
-  		https://github.com/imjdl03/Reto-3006C-equipo5/blob/main/final/Reto/Limpieza/Limpieza%20de%20datos.pdf
+		https://github.com/imjdl03/Reto-3006C-equipo5/blob/main/final/Reto/Limpieza/limpieza.ipynb
+* *Modulo 4: Reto*
+		* **Momento de Retroalimentación: Reto Limpieza del Conjunto de Datosg** Please review file **final/Reto/Limpieza/limpieza.ipybn**
+		https://github.com/imjdl03/Reto-3006C-equipo5/blob/main/final/Reto/Limpieza/limpieza.ipynb
+  
 * *Detalles de variables*
 		* Para ver una descripción de la eleccion de las variables y el proceso realizado, consultar el documento en **final/Reto/Limpieza/Limpieza de datos.pdf**
-		https://github.com/imjdl03/Reto-3006C-equipo5/blob/main/final/Reto/Limpieza/limpieza.ipynb
+  		https://github.com/imjdl03/Reto-3006C-equipo5/blob/main/final/Reto/Limpieza/Limpieza%20de%20datos.pdf
+		
   
 
 ## Requested changes and replies
