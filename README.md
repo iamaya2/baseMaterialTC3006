@@ -10,8 +10,8 @@ La carpeta "root" de este repositorio incluye los siguientes archivos:
   * final: Carpeta con la información de los entregables finales, cuando ya están listos para ser evaluados.
   * retro: Carpeta con los archivos e información cuando están en etapa de borrador. Están listos para obtener retroalimentación por los profesores.
 
-## Files for revision
-Following is a list of the files that must be checked for grading each subcompetency: 
+## Archivos para revisión
+A continuación se presentan los archivos que están listos para ser retroalimentados: 
 
 * *Modulo 4: Reto*
 		* **Momento de Retroalimentación: Reto Limpieza del Conjunto de Datos** Please review file **final/Reto/Limpieza/limpieza.ipybn** o en: 
