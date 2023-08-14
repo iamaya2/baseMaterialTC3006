@@ -1,1 +1,1 @@
-En esta carpeta se adjuntan los entregables de la primera entrega del reto: Limpieza de datos
+En esta carpeta se adjuntan los entregables para todas las fases del reto
