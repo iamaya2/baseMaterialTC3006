@@ -1,8 +1,8 @@
-# Demo repo for the TC3006 course
-This repository is a demo of what is expected to deliver on each repository requested for the TC3006 course at Tecnológico de Monterrey. For this demo, we consider the *implementation portfolio* deliverable, which spans across two modules (Statistics and ML) and two subcompetencies (SMA0101A and SMA0401A). Also, we assume that the repository is being provided at the end of first block, which means that the students already got some feedback from the professors. 
+# Repositorio Equipo 5 TC3006C
+Este es el repositorio oficial del Equipo 5 del curso TC3006C.101 (Inteligencia Artificial Avanzada para la Ciencia de Datos). En este repositorio se encontrarán los diferentes archivos, reportes y scripts correspondientes a las entregas del reto y de las actividades en clase. Además, se proveerá retroalimentación de las entregas y se podrán identificar las diferentes versiones existentes de los avances que se realicen. 
 
-## Structure of this repository
-The root folder of this repository contains the following files and folders: 
+## Estructura del repositorio
+La carpeta "root" de este repositorio incluye los siguientes archivos:
 
 * **Files**
   * README.md: This file  
