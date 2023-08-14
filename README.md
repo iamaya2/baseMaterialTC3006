@@ -13,14 +13,13 @@ La carpeta "root" de este repositorio incluye los siguientes archivos:
 ## Files for revision
 Following is a list of the files that must be checked for grading each subcompetency: 
 
-* *Module 1: Statistics*
-	* *SMA0101A*
-		* **Evidence 01: Modeling** Please review file **final/M1_Statistics/Ev_01/dummyFile.txt**
-* *Module 2: Machine Learning*
-	* *SMA0401A*
-		* **Evidence 01: ML from scratch** Please review file **final/M2_ML/Ev_01/dummyFile.txt**
-		* **Evidence 02: ML from a framework** Please review file **final/M2_ML/Ev_02/dummyFolder/dummyFile.txt**
-
+* *Module 4: Reto*
+		* **Momento de Retroalimentación: Reto Limpieza del Conjunto de Datosg** Please review file **final/Reto/Limpieza/limpieza.ipybn**
+  		https://github.com/imjdl03/Reto-3006C-equipo5/blob/main/final/Reto/Limpieza/Limpieza%20de%20datos.pdf
+  
+  			* Para ver una descripción de la eleccion de las variables y el proceso realizado, consultar el documento en **final/Reto/Limpieza/Limpieza de datos.pdf**
+  			https://github.com/imjdl03/Reto-3006C-equipo5/blob/main/final/Reto/Limpieza/limpieza.ipynb
+  
 
 ## Requested changes and replies
 Following is a list of the location of the issues that were raised by the reviewer during the feedback phase. Please refer to them for more details.
