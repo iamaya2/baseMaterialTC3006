@@ -14,12 +14,12 @@ La carpeta "root" de este repositorio incluye los siguientes archivos:
 A continuación se presentan los archivos que están listos para ser retroalimentados: 
 
 * *Modulo 4: Reto*
-		* **Momento de Retroalimentación: Reto Limpieza del Conjunto de Datos** Please review file **final/Reto/Limpieza/limpieza.ipybn** o en: 
-		https://github.com/imjdl03/Reto-3006C-equipo5/blob/main/final/Reto/Limpieza/limpieza.ipynb
+		* **Momento de Retroalimentación: Reto Limpieza del Conjunto de Datos** Please review file **retro/M4_Reto/Limpieza/limpieza.ipybn** o en: 
+		https://github.com/imjdl03/Reto-3006C-equipo5/blob/main/retro/M4_Reto/Limpieza/limpieza.ipynb
   
 * *Detalles de variables*
-		* Para ver una descripción de la eleccion de las variables y el proceso realizado, consultar el documento en **final/Reto/Limpieza/Limpieza de datos.pdf** o en: 
-  		https://github.com/imjdl03/Reto-3006C-equipo5/blob/main/final/Reto/Limpieza/Limpieza%20de%20datos.pdf
+		* Para ver una descripción de la eleccion de las variables y el proceso realizado, consultar el documento en **retro/M4_Reto/Limpieza/Limpieza de datos.pdf** o en: 
+  		https://github.com/imjdl03/Reto-3006C-equipo5/blob/main/retro/M4_Reto/Limpieza/Limpieza%20de%20datos.pdf
 		
   
 
@@ -27,8 +27,8 @@ A continuación se presentan los archivos que están listos para ser retroalimen
 Following is a list of the location of the issues that were raised by the reviewer during the feedback phase. Please refer to them for more details.
 
 * *Modulo 4: Reto*
-		* **Momento de Retroalimentación: Reto Limpieza del Conjunto de Datos** Please review file **final/Reto/Limpieza/limpieza.ipybn** o en: 
-		https://github.com/imjdl03/Reto-3006C-equipo5/blob/main/final/Reto/Limpieza/limpieza.ipynb
+		* **Momento de Retroalimentación: Reto Limpieza del Conjunto de Datos** Please review file **retro/M4_Reto/Limpieza/limpieza.ipybn** o en: 
+		https://github.com/imjdl03/Reto-3006C-equipo5/blob/main/retro/M4_Reto/Limpieza/limpieza.ipynb
 		
 
 See you!
