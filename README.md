@@ -4,11 +4,11 @@ Este es el repositorio oficial del Equipo 5 del curso TC3006C.101 (Inteligencia 
 ## Estructura del repositorio
 La carpeta "root" de este repositorio incluye los siguientes archivos:
 
-* **Files**
-  * README.md: This file  
+* **Archivos**
+  * README.md: Este archivo 
 * **Folders**
-  * final: Folder with the information about the final deliverables, which include the changes that the reviewers asked for
-  * retro: Folder with the information about the draft version of each deliverable, which are provided for requesting feedback
+  * final: Carpeta con la información de los entregables finales, cuando ya están listos para ser evaluados.
+  * retro: Carpeta con los archivos e información cuando están en etapa de borrador. Están listos para obtener retroalimentación por los profesores.
 
 ## Files for revision
 Following is a list of the files that must be checked for grading each subcompetency: 
