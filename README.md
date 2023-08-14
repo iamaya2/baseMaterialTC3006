@@ -14,8 +14,9 @@ La carpeta "root" de este repositorio incluye los siguientes archivos:
 Following is a list of the files that must be checked for grading each subcompetency: 
 
 * *Modulo 4: Reto*
-		* **Momento de Retroalimentación: Reto Limpieza del Conjunto de Datosg** Please review file **final/Reto/Limpieza/limpieza.ipybn** o en: 
+		* **Momento de Retroalimentación: Reto Limpieza del Conjunto de Datos** Please review file **final/Reto/Limpieza/limpieza.ipybn** o en: 
 		https://github.com/imjdl03/Reto-3006C-equipo5/blob/main/final/Reto/Limpieza/limpieza.ipynb
+  
 * *Detalles de variables*
 		* Para ver una descripción de la eleccion de las variables y el proceso realizado, consultar el documento en **final/Reto/Limpieza/Limpieza de datos.pdf** o en: 
   		https://github.com/imjdl03/Reto-3006C-equipo5/blob/main/final/Reto/Limpieza/Limpieza%20de%20datos.pdf
@@ -25,13 +26,9 @@ Following is a list of the files that must be checked for grading each subcompet
 ## Requested changes and replies
 Following is a list of the location of the issues that were raised by the reviewer during the feedback phase. Please refer to them for more details.
 
-* *Module 1: Statistics*
-	* *SMA0101A*
-		* **Evidence 01: Modeling: final/M1_Statistics/README.md**
-* *Module 2: Machine Learning*
-	* *SMA0401A*
-		* **Evidence 01: ML from scratch: final/M2_ML/README.md**
-		* **Evidence 02: ML from a framework: final/M2_ML/README.md**
+* *Modulo 4: Reto*
+		* **Momento de Retroalimentación: Reto Limpieza del Conjunto de Datos** Please review file **final/Reto/Limpieza/limpieza.ipybn** o en: 
+		https://github.com/imjdl03/Reto-3006C-equipo5/blob/main/final/Reto/Limpieza/limpieza.ipynb
 		
 
 See you!
