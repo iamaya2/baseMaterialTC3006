@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5232e07b-2276-416e-a64d-f411ff79ce39" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/retro/M4_Reto/Modelacion/pruebas_de_modelacion.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retro/M4_Reto/Limpieza/limpieza.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/retro/M4_Reto/Limpieza/limpieza.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="david" />
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "prueba__modelos"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Github\Reto-3006C-equipo5\retro\M4_Reto\Data" />
+    </key>
+  </component>
+</project>

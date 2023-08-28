@@ -1,0 +1,279 @@
+Index: retro/M4_Reto/Limpieza/submission.csv
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>PassengerId,Survived\r\n892,0\r\n893,0\r\n894,0\r\n895,0\r\n896,0\r\n897,0\r\n898,0\r\n899,0\r\n900,1\r\n901,0\r\n902,0\r\n903,0\r\n904,1\r\n905,0\r\n906,1\r\n907,1\r\n908,0\r\n909,0\r\n910,0\r\n911,1\r\n912,0\r\n913,1\r\n914,1\r\n915,0\r\n916,1\r\n917,0\r\n918,1\r\n919,0\r\n920,0\r\n921,0\r\n922,0\r\n923,0\r\n924,1\r\n925,0\r\n926,0\r\n927,0\r\n928,0\r\n929,0\r\n930,0\r\n931,0\r\n932,0\r\n933,1\r\n934,0\r\n935,1\r\n936,1\r\n937,0\r\n938,0\r\n939,0\r\n940,1\r\n941,1\r\n942,0\r\n943,0\r\n944,1\r\n945,1\r\n946,0\r\n947,0\r\n948,0\r\n949,0\r\n950,0\r\n951,1\r\n952,0\r\n953,0\r\n954,0\r\n955,1\r\n956,1\r\n957,1\r\n958,1\r\n959,0\r\n960,0\r\n961,1\r\n962,1\r\n963,0\r\n964,0\r\n965,0\r\n966,1\r\n967,0\r\n968,0\r\n969,1\r\n970,0\r\n971,1\r\n972,1\r\n973,0\r\n974,0\r\n975,0\r\n976,0\r\n977,0\r\n978,1\r\n979,0\r\n980,0\r\n981,1\r\n982,1\r\n983,0\r\n984,1\r\n985,0\r\n986,1\r\n987,0\r\n988,1\r\n989,0\r\n990,0\r\n991,0\r\n992,1\r\n993,0\r\n994,0\r\n995,0\r\n996,1\r\n997,0\r\n998,0\r\n999,0\r\n1000,0\r\n1001,0\r\n1002,0\r\n1003,0\r\n1004,1\r\n1005,1\r\n1006,1\r\n1007,0\r\n1008,0\r\n1009,0\r\n1010,0\r\n1011,1\r\n1012,1\r\n1013,0\r\n1014,1\r\n1015,0\r\n1016,0\r\n1017,1\r\n1018,0\r\n1019,1\r\n1020,0\r\n1021,0\r\n1022,0\r\n1023,0\r\n1024,0\r\n1025,0\r\n1026,0\r\n1027,0\r\n1028,0\r\n1029,0\r\n1030,0\r\n1031,0\r\n1032,0\r\n1033,1\r\n1034,0\r\n1035,0\r\n1036,0\r\n1037,0\r\n1038,0\r\n1039,0\r\n1040,1\r\n1041,0\r\n1042,1\r\n1043,0\r\n1044,0\r\n1045,1\r\n1046,0\r\n1047,0\r\n1048,1\r\n1049,0\r\n1050,0\r\n1051,1\r\n1052,0\r\n1053,1\r\n1054,1\r\n1055,0\r\n1056,0\r\n1057,0\r\n1058,0\r\n1059,0\r\n1060,1\r\n1061,0\r\n1062,0\r\n1063,0\r\n1064,0\r\n1065,0\r\n1066,0\r\n1067,1\r\n1068,1\r\n1069,0\r\n1070,1\r\n1071,1\r\n1072,0\r\n1073,0\r\n1074,1\r\n1075,0\r\n1076,1\r\n1077,0\r\n1078,1\r\n1079,0\r\n1080,0\r\n1081,0\r\n1082,0\r\n1083,0\r\n1084,1\r\n1085,0\r\n1086,1\r\n1087,0\r\n1088,1\r\n1089,0\r\n1090,0\r\n1091,0\r\n1092,1\r\n1093,1\r\n1094,0\r\n1095,1\r\n1096,0\r\n1097,0\r\n1098,0\r\n1099,0\r\n1100,1\r\n1101,0\r\n1102,0\r\n1103,0\r\n1104,0\r\n1105,1\r\n1106,0\r\n1107,0\r\n1108,1\r\n1109,0\r\n1110,1\r\n1111,0\r\n1112,1\r\n1113,0\r\n1114,1\r\n1115,0\r\n1116,1\r\n1117,0\r\n1118,0\r\n1119,0\r\n1120,0\r\n1121,0\r\n1122,0\r\n1123,1\r\n1124,0\r\n1125,0\r\n1126,0\r\n1127,0\r\n1128,0\r\n1129,0\r\n1130,1\r\n1131,1\r\n1132,1\r\n1133,1\r\n1134,0\r\n1135,0\r\n1136,0\r\n1137,0\r\n1138,1\r\n1139,0\r\n1140,1\r\n1141,0\r\n1142,1\r\n1143,0\r\n1144,0\r\n1145,0\r\n1146,0\r\n1147,0\r\n1148,0\r\n1149,0\r\n1150,1\r\n1151,0\r\n1152,0\r\n1153,0\r\n1154,1\r\n1155,0\r\n1156,0\r\n1157,0\r\n1158,0\r\n1159,0\r\n1160,0\r\n1161,0\r\n1162,0\r\n1163,0\r\n1164,1\r\n1165,1\r\n1166,0\r\n1167,1\r\n1168,0\r\n1169,0\r\n1170,0\r\n1171,0\r\n1172,0\r\n1173,1\r\n1174,0\r\n1175,0\r\n1176,0\r\n1177,0\r\n1178,0\r\n1179,0\r\n1180,0\r\n1181,0\r\n1182,0\r\n1183,0\r\n1184,0\r\n1185,0\r\n1186,0\r\n1187,0\r\n1188,1\r\n1189,0\r\n1190,0\r\n1191,0\r\n1192,0\r\n1193,0\r\n1194,0\r\n1195,0\r\n1196,0\r\n1197,1\r\n1198,0\r\n1199,1\r\n1200,0\r\n1201,0\r\n1202,0\r\n1203,0\r\n1204,0\r\n1205,0\r\n1206,1\r\n1207,1\r\n1208,0\r\n1209,0\r\n1210,0\r\n1211,0\r\n1212,0\r\n1213,0\r\n1214,0\r\n1215,1\r\n1216,1\r\n1217,0\r\n1218,1\r\n1219,0\r\n1220,0\r\n1221,0\r\n1222,1\r\n1223,0\r\n1224,0\r\n1225,1\r\n1226,0\r\n1227,0\r\n1228,0\r\n1229,0\r\n1230,0\r\n1231,1\r\n1232,0\r\n1233,0\r\n1234,0\r\n1235,1\r\n1236,1\r\n1237,0\r\n1238,0\r\n1239,1\r\n1240,0\r\n1241,1\r\n1242,1\r\n1243,0\r\n1244,0\r\n1245,0\r\n1246,0\r\n1247,0\r\n1248,1\r\n1249,0\r\n1250,0\r\n1251,1\r\n1252,0\r\n1253,1\r\n1254,1\r\n1255,0\r\n1256,1\r\n1257,0\r\n1258,0\r\n1259,1\r\n1260,1\r\n1261,0\r\n1262,0\r\n1263,1\r\n1264,0\r\n1265,0\r\n1266,1\r\n1267,1\r\n1268,0\r\n1269,0\r\n1270,0\r\n1271,0\r\n1272,0\r\n1273,0\r\n1274,1\r\n1275,1\r\n1276,0\r\n1277,1\r\n1278,0\r\n1279,0\r\n1280,0\r\n1281,0\r\n1282,0\r\n1283,1\r\n1284,1\r\n1285,0\r\n1286,0\r\n1287,1\r\n1288,0\r\n1289,1\r\n1290,0\r\n1291,0\r\n1292,1\r\n1293,0\r\n1294,1\r\n1295,0\r\n1296,0\r\n1297,0\r\n1298,0\r\n1299,0\r\n1300,0\r\n1301,0\r\n1302,0\r\n1303,1\r\n1304,0\r\n1305,0\r\n1306,1\r\n1307,0\r\n1308,0\r\n1309,1\r\n
+===================================================================
+diff --git a/retro/M4_Reto/Limpieza/submission.csv b/retro/M4_Reto/Limpieza/submission.csv
+--- a/retro/M4_Reto/Limpieza/submission.csv	
++++ b/retro/M4_Reto/Limpieza/submission.csv	
+@@ -1,11 +1,11 @@
+ PassengerId,Survived
+ 892,0
+-893,0
++893,1
+ 894,0
+ 895,0
+-896,0
++896,1
+ 897,0
+-898,0
++898,1
+ 899,0
+ 900,1
+ 901,0
+@@ -32,7 +32,7 @@
+ 922,0
+ 923,0
+ 924,1
+-925,0
++925,1
+ 926,0
+ 927,0
+ 928,0
+@@ -86,18 +86,18 @@
+ 976,0
+ 977,0
+ 978,1
+-979,0
+-980,0
++979,1
++980,1
+ 981,1
+ 982,1
+ 983,0
+ 984,1
+ 985,0
+-986,1
++986,0
+ 987,0
+ 988,1
+ 989,0
+-990,0
++990,1
+ 991,0
+ 992,1
+ 993,0
+@@ -110,13 +110,13 @@
+ 1000,0
+ 1001,0
+ 1002,0
+-1003,0
++1003,1
+ 1004,1
+ 1005,1
+ 1006,1
+ 1007,0
+ 1008,0
+-1009,0
++1009,1
+ 1010,0
+ 1011,1
+ 1012,1
+@@ -159,12 +159,12 @@
+ 1049,0
+ 1050,0
+ 1051,1
+-1052,0
++1052,1
+ 1053,1
+ 1054,1
+ 1055,0
+ 1056,0
+-1057,0
++1057,1
+ 1058,0
+ 1059,0
+ 1060,1
+@@ -196,16 +196,16 @@
+ 1086,1
+ 1087,0
+ 1088,1
+-1089,0
++1089,1
+ 1090,0
+ 1091,0
+ 1092,1
+ 1093,1
+-1094,0
++1094,1
+ 1095,1
+ 1096,0
+ 1097,0
+-1098,0
++1098,1
+ 1099,0
+ 1100,1
+ 1101,0
+@@ -226,10 +226,10 @@
+ 1116,1
+ 1117,0
+ 1118,0
+-1119,0
++1119,1
+ 1120,0
+ 1121,0
+-1122,0
++1122,1
+ 1123,1
+ 1124,0
+ 1125,0
+@@ -251,7 +251,7 @@
+ 1141,0
+ 1142,1
+ 1143,0
+-1144,0
++1144,1
+ 1145,0
+ 1146,0
+ 1147,0
+@@ -262,7 +262,7 @@
+ 1152,0
+ 1153,0
+ 1154,1
+-1155,0
++1155,1
+ 1156,0
+ 1157,0
+ 1158,0
+@@ -281,16 +281,16 @@
+ 1171,0
+ 1172,0
+ 1173,1
+-1174,0
+-1175,0
+-1176,0
++1174,1
++1175,1
++1176,1
+ 1177,0
+ 1178,0
+ 1179,0
+ 1180,0
+ 1181,0
+ 1182,0
+-1183,0
++1183,1
+ 1184,0
+ 1185,0
+ 1186,0
+@@ -303,16 +303,16 @@
+ 1193,0
+ 1194,0
+ 1195,0
+-1196,0
++1196,1
+ 1197,1
+ 1198,0
+ 1199,1
+ 1200,0
+-1201,0
++1201,1
+ 1202,0
+ 1203,0
+ 1204,0
+-1205,0
++1205,1
+ 1206,1
+ 1207,1
+ 1208,0
+@@ -338,13 +338,13 @@
+ 1228,0
+ 1229,0
+ 1230,0
+-1231,1
++1231,0
+ 1232,0
+ 1233,0
+ 1234,0
+ 1235,1
+-1236,1
+-1237,0
++1236,0
++1237,1
+ 1238,0
+ 1239,1
+ 1240,0
+@@ -353,7 +353,7 @@
+ 1243,0
+ 1244,0
+ 1245,0
+-1246,0
++1246,1
+ 1247,0
+ 1248,1
+ 1249,0
+@@ -366,7 +366,7 @@
+ 1256,1
+ 1257,0
+ 1258,0
+-1259,1
++1259,0
+ 1260,1
+ 1261,0
+ 1262,0
+@@ -407,13 +407,13 @@
+ 1297,0
+ 1298,0
+ 1299,0
+-1300,0
+-1301,0
+-1302,0
++1300,1
++1301,1
++1302,1
+ 1303,1
+ 1304,0
+ 1305,0
+ 1306,1
+ 1307,0
+ 1308,0
+-1309,1
++1309,0
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"98519ea5-418f-42ec-9669-2556cb5bab1d\" name=\"Changes\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/Datasets/prueba.ipynb\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Jupyter Notebook\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\"><![CDATA[{\r\n  \"associatedIndex\": 4\r\n}]]></component>\r\n  <component name=\"ProjectId\" id=\"2TnojOBskYY2mX8Krvhip9Luc3n\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"git-widget-placeholder\": \"main\",\r\n    \"last_opened_file_path\": \"/Users/davidesquer/Documents/Github/Reto-3006C-equipo5\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n</project>
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -5,7 +5,9 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="98519ea5-418f-42ec-9669-2556cb5bab1d" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/Datasets/prueba.ipynb" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/retro/M4_Reto/Limpieza/limpieza.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/retro/M4_Reto/Limpieza/limpieza.ipynb" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/retro/M4_Reto/Limpieza/submission.csv" beforeDir="false" afterPath="$PROJECT_DIR$/retro/M4_Reto/Limpieza/submission.csv" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -25,9 +27,9 @@
+   <component name="MarkdownSettingsMigration">
+     <option name="stateVersion" value="1" />
+   </component>
+-  <component name="ProjectColorInfo"><![CDATA[{
+-  "associatedIndex": 4
+-}]]></component>
++  <component name="ProjectColorInfo">{
++  &quot;associatedIndex&quot;: 4
++}</component>
+   <component name="ProjectId" id="2TnojOBskYY2mX8Krvhip9Luc3n" />
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+@@ -35,10 +37,13 @@
+   </component>
+   <component name="PropertiesComponent"><![CDATA[{
+   "keyToString": {
++    "RunOnceActivity.OpenProjectViewOnStart": "true",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+     "WebServerToolWindowFactoryState": "false",
+-    "git-widget-placeholder": "main",
+-    "last_opened_file_path": "/Users/davidesquer/Documents/Github/Reto-3006C-equipo5"
++    "git-widget-placeholder": "david",
++    "ignore.virus.scanning.warn.message": "true",
++    "last_opened_file_path": "E:/Github/Portafolio_Implementacion",
++    "settings.editor.selected.configurable": "preferences.pluginManager"
+   }
+ }]]></component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
